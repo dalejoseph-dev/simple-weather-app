@@ -1,5 +1,3 @@
-//API Key for the weather app: 1edefc1c75e71c66dd00ac1510c3a310
-
 // Declaring the variables
 let lon;
 let lat;

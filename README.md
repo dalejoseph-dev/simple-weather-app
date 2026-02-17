@@ -83,7 +83,7 @@ https://openweathermap.org/img/wn/{icon}@2x.png
 The app uses the following OpenWeatherMap API key:
 
 ```
-1edefc1c75e71c66dd00ac1510c3a310
+********************************
 ```
 
 To use a different key, replace the `appid` value in the base URL inside `script.js`. You can obtain a free API key by registering at [openweathermap.org](https://openweathermap.org).
