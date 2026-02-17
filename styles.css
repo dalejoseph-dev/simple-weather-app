@@ -25,3 +25,9 @@ body {
     border-radius: 16px;
     border: 2px solid rgb(14, 43, 1);
 }
+
+.title {
+font-size: 50px;
+color: #ff3;
+text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
